@@ -3,8 +3,8 @@ I use GitHub for recording my learning log.
 
 Have a nice day :)  
 
-               <p><b>  Smile ^-^</p>
 
+                Smile ^-^
 
 <!---
 moonwhalesKR/moonwhalesKR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
