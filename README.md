@@ -3,7 +3,7 @@ I use GitHub for recording my learning log.
 
 Have a nice day :)  
 
-                       Smile ^-^
+               <p><b>  Smile ^-^</p>
 
 
 <!---
